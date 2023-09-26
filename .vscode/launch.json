@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yamel/repos/iShare_RE_Labs",
+      "program": "/Users/yamel/repos/iShare_RE_Labs/build/Debug/outDebug"
+    }
+  ]
+}
